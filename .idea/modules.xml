@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datamigration-project/.idea/modules/datamigration-project.project.videos-gcp-emr-build.iml" filepath="$PROJECT_DIR$/datamigration-project/.idea/modules/datamigration-project.project.videos-gcp-emr-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datamigration-project/.idea/modules/datamigration-project.videos-gcp-emr.iml" filepath="$PROJECT_DIR$/datamigration-project/.idea/modules/datamigration-project.videos-gcp-emr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/.idea/modules/microservice.videos-gcp-emr.iml" filepath="$PROJECT_DIR$/microservice/.idea/modules/microservice.videos-gcp-emr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/.idea/modules/project.videos-gcp-emr-build.iml" filepath="$PROJECT_DIR$/microservice/.idea/modules/project.videos-gcp-emr-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/videos-gcp-emr.iml" filepath="$PROJECT_DIR$/.idea/modules/videos-gcp-emr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/videos-gcp-emr-build.iml" filepath="$PROJECT_DIR$/.idea/modules/videos-gcp-emr-build.iml" />
+    </modules>
+  </component>
+</project>

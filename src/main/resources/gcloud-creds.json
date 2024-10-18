@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sapient-logic-430515-v0",
+  "private_key_id": "62ec57f758d486502dd2895af02e529b07209315",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfpoEh69d3inLN\nfwOeKSa3zYipS5hMiylv3Y20u8dNXZaXeDHdxoZLMA4ecY2sBJ+oHTCPsLbuVdgP\n+//EOFQhxUvFfjjiW8vBIc+4iQfMSDZwyY8hxZdT1wVRnOmu/zMaBo0TRpEp+yLr\nxP1/1KJ8aqPMANB6W2k3UoBK21a1HtM9142EOFLS8lwHRZotUsseuAQv+MwGUf8F\nwBHtEJteFoncR0DgDGPZJtmiThhLpB4rUleZFJQvTTeY5BBeWgXOmzd8Z3iAvzgP\nHYvW21Ajdcns4CwH7ThkRqafYlr+TFCMnrRkX3gml2O70PyyhLxDJ/up+qVK4Dyb\n19j62qUFAgMBAAECggEAFvHEVcZyD0NVx/xU3gZugtR2a1RKtVd7s1DNVJf3JwKI\nCclTq1qkgspLgSsTMBFzC6N0TvZX+A1c0cFHCyGIT9kt0FqZXMjSEfXkx1HkTcLk\nFhYVrMYbv0gkAsxxFj4ljzw5Srel1bl61ZUYVKaP2p8t3rwQOkGIb9O6zedTgRCM\nqetzBbe4Uk8EAYLIMY9t0ddwMvwvDRB6z0mA9AAc8HJjHEiTCmDNPXXYDDTmVWEJ\nq9K9sAY31/yGcv2ccfRnRjVOyjq0pVmpFdG1WdivL2X7UfPS1JAHw5wmSgPzt+Gu\nlljG1ISLpVwSoC2u1Jg4o1axti+ROwwkK39Xn+ImAQKBgQDQ4qxJEPmLZj0+Uxhs\n3xO7gvsKudTlt9vlJebaeQzYmUQSEoAIQS3dIiWjVK9swVVFOycKqY0tbtIOp8N4\nEs6z+mpI+9Q3MGf+sZjiTsQ1ZX/naAYGXsosUH7tzUkBLv2gISNgEKV9679Gb8Hg\n24ZEp6etPh2/FN5r1daRpATyAQKBgQDDqO8pKDcspDvG19lV0kvTPcw1KEJ2Xc2y\nwq7NgY/hmkwW3DwuRe1zl/FVA9kv6XtOMhpeARG62rMZBxZEsCsFp4TUO2AgYI1M\n050GOhcJIJP072ErNxuT0rbI7VOf8608KgXYub/UjC/+d+YDOk0H7kE2uwe3cCsp\n6ahltpvrBQKBgQCS+BmeIyphEWNf2Zli6KX6ldLKHiwUIQO/u6Ys62TFdTj2ujuJ\nE0sQvrjarXfsPi8f0dnLX7ZsU//JvfIDJsB202c6yKzs08sn4Y8fE6pro2mVyJQM\noV8ARPa5nGmUQprCsu4v5iZ6bYecKH+yFOLopUmN1Bmb2zQPjVo2CMBOAQKBgDLw\nOkN2ytZ+c2mTLGvhcggu4Ik+T/9M8I6HjMbH4lOTvhd9gtVxMx6TAitl8xc8K/Px\nq1ep45nH8jSj2bJMQwcX08cFJkOHn4HO3eSPHwwrRRnRcHS1xiI4C4pH7yuHXyR4\ntEj2IvENBjmzsVhJx2A3MRc0ng+tzi79O/AvGGyZAoGARZJQgYae5MWugQ1p8kuf\n6J6qWQZPffN8ewZWAy7aoPwloEs0pmU/upflMBjGeTj7YyBqCBwUyC3s993N7ErU\nnB2q1g9ULOe8qXwWUBy/VFpFucHehVeby6fGr56F7F9WAzXFo+D0nb+IG2fH4biU\n+IcIDnHeZEKd1SioUkK4rsA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yvideo-dataproc-svc-acct@sapient-logic-430515-v0.iam.gserviceaccount.com",
+  "client_id": "100347394166298284828",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yvideo-dataproc-svc-acct%40sapient-logic-430515-v0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 03 22:36:56 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0192-5359-52fa-00000736b348 
+on database directory C:\Users\paras\IdeaProjects\videos-gcp-emr\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/paras/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.23+9-LTS
+user.dir=C:\Users\paras\IdeaProjects\videos-gcp-emr
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
